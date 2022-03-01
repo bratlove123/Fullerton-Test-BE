@@ -15,11 +15,11 @@ $ npm run start:prod
 
 ### `user account`
 
-### `Admin`\
+### `Admin`
   username: admin\
   password: 12345678
-\
-### `User`\
+
+### `User`
   username: HR-test1\
   password: 12345678
 \
